@@ -9,3 +9,5 @@ transforming C into an upper triangular matrix. Vary the size of the problem fro
 
 hw3 - Create two matrices, A and B, each of size (N × N). Write a CUDA code for computing C = AB. Vary the size of
 the problem from N = 100 . . . 10000.   
+
+Paralelised State Estimation project - has accompanying readme.   
